@@ -3,9 +3,13 @@
 A fun and interactive JavaScript-based Band Name Generator that creates unique and catchy band names based on user input!
 
 🚀 Features
+
 Generates cool and creative band names.
+
 Simple and interactive web-based UI.
+
 No dependencies—pure JavaScript!
+
 🛠 Installation & Usage
 Clone the repository:
 bash
