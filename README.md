@@ -1,4 +1,5 @@
 🎸 Band Name Generator
+
 A fun and interactive JavaScript-based Band Name Generator that creates unique and catchy band names based on user input!
 
 🚀 Features
