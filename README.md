@@ -31,4 +31,4 @@ Save favorite band names.
 Pull requests are welcome! If you find a bug or have a cool feature idea, feel free to contribute.
 
 📜 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License
